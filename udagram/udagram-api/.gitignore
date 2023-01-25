@@ -5,7 +5,6 @@
 *.sw[mnpcod]
 *.log
 *.tmp
-*.sh
 *.tmp.*
 log.txt
 *.sublime-project
@@ -39,6 +38,7 @@ UserInterfaceState.xcuserstate
 node_modules
 venv/
 .env
+.sh
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
