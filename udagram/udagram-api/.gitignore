@@ -5,6 +5,7 @@
 *.sw[mnpcod]
 *.log
 *.tmp
+*.sh
 *.tmp.*
 log.txt
 *.sublime-project
@@ -30,7 +31,7 @@ plugins/ios.json
 $RECYCLE.BIN/
 postgres_dev/
 logfile
-set_env
+
 
 .DS_Store
 Thumbs.db
