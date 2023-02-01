@@ -4,7 +4,6 @@ Frontend S3 link: http://udagramproject-frontend.s3-website-us-east-1.amazonaws.
 Backend EB link: http://udagram-api-dev.us-east-1.elasticbeanstalk.com
 Database Endpoint: udagram.cy8qz5z5q2cj.us-east-1.rds.amazonaws.com
 
-All the requested screenshots are existing in Documentation folder
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
